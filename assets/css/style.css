@@ -1,0 +1,16 @@
+h1 {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h2 {
+    font-family: 'Baloo Paaji 2', cursive;
+}
+
+h4 {
+    font-family: 'Baloo Paaji 2', cursive;
+}
+
+.list-group-item {
+    font-family: 'Baloo Paaji 2', cursive;
+    font-size: larger;
+}
